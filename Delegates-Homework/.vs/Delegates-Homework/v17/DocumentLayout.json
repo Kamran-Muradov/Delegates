@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace Code Academy\\Delegates-Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F0F5CE-88B7-4A87-BC6B-C85C757660F6}|Delegates-Homework\\Delegates-Homework.csproj|c:\\workspace code academy\\delegates-homework\\delegates-homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F0F5CE-88B7-4A87-BC6B-C85C757660F6}|Delegates-Homework\\Delegates-Homework.csproj|solutionrelative:delegates-homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F0F5CE-88B7-4A87-BC6B-C85C757660F6}|Delegates-Homework\\Delegates-Homework.csproj|c:\\workspace code academy\\delegates-homework\\delegates-homework\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F0F5CE-88B7-4A87-BC6B-C85C757660F6}|Delegates-Homework\\Delegates-Homework.csproj|solutionrelative:delegates-homework\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F0F5CE-88B7-4A87-BC6B-C85C757660F6}|Delegates-Homework\\Delegates-Homework.csproj|c:\\workspace code academy\\delegates-homework\\delegates-homework\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F0F5CE-88B7-4A87-BC6B-C85C757660F6}|Delegates-Homework\\Delegates-Homework.csproj|solutionrelative:delegates-homework\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F0F5CE-88B7-4A87-BC6B-C85C757660F6}|Delegates-Homework\\Delegates-Homework.csproj|c:\\workspace code academy\\delegates-homework\\delegates-homework\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F0F5CE-88B7-4A87-BC6B-C85C757660F6}|Delegates-Homework\\Delegates-Homework.csproj|solutionrelative:delegates-homework\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F0F5CE-88B7-4A87-BC6B-C85C757660F6}|Delegates-Homework\\Delegates-Homework.csproj|c:\\workspace code academy\\delegates-homework\\delegates-homework\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F0F5CE-88B7-4A87-BC6B-C85C757660F6}|Delegates-Homework\\Delegates-Homework.csproj|solutionrelative:delegates-homework\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F0F5CE-88B7-4A87-BC6B-C85C757660F6}|Delegates-Homework\\Delegates-Homework.csproj|c:\\workspace code academy\\delegates-homework\\delegates-homework\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F0F5CE-88B7-4A87-BC6B-C85C757660F6}|Delegates-Homework\\Delegates-Homework.csproj|solutionrelative:delegates-homework\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F0F5CE-88B7-4A87-BC6B-C85C757660F6}|Delegates-Homework\\Delegates-Homework.csproj|c:\\workspace code academy\\delegates-homework\\delegates-homework\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F0F5CE-88B7-4A87-BC6B-C85C757660F6}|Delegates-Homework\\Delegates-Homework.csproj|solutionrelative:delegates-homework\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F0F5CE-88B7-4A87-BC6B-C85C757660F6}|Delegates-Homework\\Delegates-Homework.csproj|c:\\workspace code academy\\delegates-homework\\delegates-homework\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F0F5CE-88B7-4A87-BC6B-C85C757660F6}|Delegates-Homework\\Delegates-Homework.csproj|solutionrelative:delegates-homework\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Delegates-Homework\\Delegates-Homework\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Delegates-Homework\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Delegates-Homework\\Delegates-Homework\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Delegates-Homework\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA7wA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:46:22.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Delegates-Homework\\Delegates-Homework\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Delegates-Homework\\Services\\BookService.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Delegates-Homework\\Delegates-Homework\\Services\\BookService.cs",
+              "RelativeToolTip": "Delegates-Homework\\Services\\BookService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:46:11.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Delegates-Homework\\Delegates-Homework\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Delegates-Homework\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Delegates-Homework\\Delegates-Homework\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Delegates-Homework\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:45:20.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Delegates-Homework\\Delegates-Homework\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates-Homework\\Program.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Delegates-Homework\\Delegates-Homework\\Program.cs",
+              "RelativeToolTip": "Delegates-Homework\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:38:30.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Delegates-Homework\\Delegates-Homework\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Delegates-Homework\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Delegates-Homework\\Delegates-Homework\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Delegates-Homework\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAUwEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:35:18.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Delegates-Homework\\Delegates-Homework\\Services\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Delegates-Homework\\Services\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Delegates-Homework\\Delegates-Homework\\Services\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "Delegates-Homework\\Services\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:34:26.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Delegates-Homework\\Delegates-Homework\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Delegates-Homework\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Delegates-Homework\\Delegates-Homework\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Delegates-Homework\\Services\\CustomerService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwDgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:29:55.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Delegates-Homework\\Delegates-Homework\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Delegates-Homework\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Delegates-Homework\\Delegates-Homework\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Delegates-Homework\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:18:11.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

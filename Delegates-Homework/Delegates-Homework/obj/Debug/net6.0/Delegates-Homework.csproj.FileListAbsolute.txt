@@ -1,0 +1,14 @@
+C:\Workspace Code Academy\Delegates-Homework\Delegates-Homework\obj\Debug\net6.0\Delegates-Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace Code Academy\Delegates-Homework\Delegates-Homework\obj\Debug\net6.0\Delegates-Homework.AssemblyInfoInputs.cache
+C:\Workspace Code Academy\Delegates-Homework\Delegates-Homework\obj\Debug\net6.0\Delegates-Homework.AssemblyInfo.cs
+C:\Workspace Code Academy\Delegates-Homework\Delegates-Homework\obj\Debug\net6.0\Delegates-Homework.csproj.CoreCompileInputs.cache
+C:\Workspace Code Academy\Delegates-Homework\Delegates-Homework\bin\Debug\net6.0\Delegates-Homework.exe
+C:\Workspace Code Academy\Delegates-Homework\Delegates-Homework\bin\Debug\net6.0\Delegates-Homework.deps.json
+C:\Workspace Code Academy\Delegates-Homework\Delegates-Homework\bin\Debug\net6.0\Delegates-Homework.runtimeconfig.json
+C:\Workspace Code Academy\Delegates-Homework\Delegates-Homework\bin\Debug\net6.0\Delegates-Homework.dll
+C:\Workspace Code Academy\Delegates-Homework\Delegates-Homework\bin\Debug\net6.0\Delegates-Homework.pdb
+C:\Workspace Code Academy\Delegates-Homework\Delegates-Homework\obj\Debug\net6.0\Delegates-Homework.dll
+C:\Workspace Code Academy\Delegates-Homework\Delegates-Homework\obj\Debug\net6.0\refint\Delegates-Homework.dll
+C:\Workspace Code Academy\Delegates-Homework\Delegates-Homework\obj\Debug\net6.0\Delegates-Homework.pdb
+C:\Workspace Code Academy\Delegates-Homework\Delegates-Homework\obj\Debug\net6.0\Delegates-Homework.genruntimeconfig.cache
+C:\Workspace Code Academy\Delegates-Homework\Delegates-Homework\obj\Debug\net6.0\ref\Delegates-Homework.dll

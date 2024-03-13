@@ -1,0 +1,15 @@
+C:\Workspace Code Academy\Collections\Delegates-Practice\Delegates-Practice\bin\Debug\net6.0\Delegates-Practice.exe
+C:\Workspace Code Academy\Collections\Delegates-Practice\Delegates-Practice\bin\Debug\net6.0\Delegates-Practice.deps.json
+C:\Workspace Code Academy\Collections\Delegates-Practice\Delegates-Practice\bin\Debug\net6.0\Delegates-Practice.runtimeconfig.json
+C:\Workspace Code Academy\Collections\Delegates-Practice\Delegates-Practice\bin\Debug\net6.0\Delegates-Practice.dll
+C:\Workspace Code Academy\Collections\Delegates-Practice\Delegates-Practice\bin\Debug\net6.0\Delegates-Practice.pdb
+C:\Workspace Code Academy\Collections\Delegates-Practice\Delegates-Practice\obj\Debug\net6.0\Delegates-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace Code Academy\Collections\Delegates-Practice\Delegates-Practice\obj\Debug\net6.0\Delegates-Practice.AssemblyInfoInputs.cache
+C:\Workspace Code Academy\Collections\Delegates-Practice\Delegates-Practice\obj\Debug\net6.0\Delegates-Practice.AssemblyInfo.cs
+C:\Workspace Code Academy\Collections\Delegates-Practice\Delegates-Practice\obj\Debug\net6.0\Delegates-Practice.csproj.CoreCompileInputs.cache
+C:\Workspace Code Academy\Collections\Delegates-Practice\Delegates-Practice\obj\Debug\net6.0\Delegates-Practice.sourcelink.json
+C:\Workspace Code Academy\Collections\Delegates-Practice\Delegates-Practice\obj\Debug\net6.0\Delegates-Practice.dll
+C:\Workspace Code Academy\Collections\Delegates-Practice\Delegates-Practice\obj\Debug\net6.0\refint\Delegates-Practice.dll
+C:\Workspace Code Academy\Collections\Delegates-Practice\Delegates-Practice\obj\Debug\net6.0\Delegates-Practice.pdb
+C:\Workspace Code Academy\Collections\Delegates-Practice\Delegates-Practice\obj\Debug\net6.0\Delegates-Practice.genruntimeconfig.cache
+C:\Workspace Code Academy\Collections\Delegates-Practice\Delegates-Practice\obj\Debug\net6.0\ref\Delegates-Practice.dll
